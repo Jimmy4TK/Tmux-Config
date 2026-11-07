@@ -1,0 +1,5 @@
+# Plugins (los instala TPM)
+plugins/
+# Scripts por proyecto y carpetas locales del sessionizer
+scripts/
+sessionizer.dirs
